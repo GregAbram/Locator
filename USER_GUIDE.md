@@ -86,8 +86,12 @@ than about 8°/s are dropped.
 
 ## 4. Checking that devices agree
 
-The **magenta reference post** (a tall thin post with a cross bar) stands below
-the middle of the surveyed tags, at the same room position on every device.
+The room's origin is the **center of the first tag surveyed**: height 0 is
+that tag's center, not the floor, and content is placed relative to it.
+
+The **magenta reference post** (a thin post with a cross bar) marks one fixed
+room position: below the middle of the surveyed tags, starting at the first
+tag's height. It's the same position on every device.
 To check two devices, have both people look at the post and compare where each
 sees it, or point at it. They should match to within a few centimeters. If
 they don't:
