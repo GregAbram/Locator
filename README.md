@@ -6,6 +6,8 @@ place for every viewer. Copy this project and put your content under
 `Room/Content`, in room coordinates. [PVAR](https://github.com/GregAbram/PVAR)
 is built this way.
 
+**[User guide](USER_GUIDE.md)** - how to use the app on Quest and iPhone.
+
 Unity 6000.3.10f1 (Mixed Reality template), with
 [edu.tacc.apriltags](https://github.com/GregAbram/AprilTags) for localization.
 
